@@ -1,6 +1,5 @@
 package com.taskmanagerlite.taskmanagerlite.auth.dto;
 
-import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
 import com.taskmanagerlite.taskmanagerlite.auth.entity.User;
